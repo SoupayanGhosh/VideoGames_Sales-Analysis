@@ -10,5 +10,5 @@ The following Python libraries were utilized in this project:
 - **NumPy**: For numerical operations and array handling.
 - **Pandas**: For data loading, cleaning, manipulation, and analysis.
 - **Matplotlib**: For creating static visualizations and plots.
-- **Seaborn**: For advanced and aesthetically pleasing data visualizations[1].
+- **Seaborn**: For advanced and aesthetically pleasing data visualizations.
 
