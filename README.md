@@ -12,4 +12,3 @@ The following Python libraries were utilized in this project:
 - **Matplotlib**: For creating static visualizations and plots.
 - **Seaborn**: For advanced and aesthetically pleasing data visualizations[1].
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/61145358/b87308f6-28af-4eb3-9d26-1a14d2a79f5f/VGA.ipynb
